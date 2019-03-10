@@ -6,7 +6,7 @@ Bu etkinlikte çeviklik kavramından, startup ve kurumsal dünyadaki farklılık
 
 Söyleşi bölümümüzde Neslihan Şirin Saygılı ile doyumsuz bir sohbet gerçekleştirdik.
 
-[![Image from episode 01 of WSCEP01](e01-20190304/images/wscep01-e01-p01-thumbnail.jpg)](images/wscep01-e01-p01.jpg)
-[![Image from episode 01 of WSCEP01](e01-20190304/images/wscep01-e01-p02-thumbnail.jpg)](images/wscep01-e01-p02.jpg)
-[![Image from episode 01 of WSCEP01](e01-20190304/images/wscep01-e01-p03-thumbnail.jpg)](images/wscep01-e01-p03.jpg)
-[![Image from episode 01 of WSCEP01](e01-20190304/images/wscep01-e01-p04-thumbnail.jpg)](images/wscep01-e01-p04.jpg)
+[![Image from episode 01 of WSCEP01](images/wscep01-e01-p01-thumbnail.jpg)](images/wscep01-e01-p01.jpg)
+[![Image from episode 01 of WSCEP01](images/wscep01-e01-p02-thumbnail.jpg)](images/wscep01-e01-p02.jpg)
+[![Image from episode 01 of WSCEP01](images/wscep01-e01-p03-thumbnail.jpg)](images/wscep01-e01-p03.jpg)
+[![Image from episode 01 of WSCEP01](images/wscep01-e01-p04-thumbnail.jpg)](images/wscep01-e01-p04.jpg)
